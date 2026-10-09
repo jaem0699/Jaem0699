@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Jesus Echenaguia</h1>
+  <h1 align="center">Hola 👋, Soy Jesus Echenaguia</h1>
   <h3 align="center">Desarrollador Full Stack | Web & Mobile Applications 🚀</h3>
   <p align="center">
     Transformando ideas innovadoras en experiencias digitales escalables, eficientes y centradas en el usuario.
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Acerca de mí
 
-¡Mba'éichapa! Soy **Jesús Echenaguia**, un apasionado **Desarrollador Full Stack** con base en el desarrollo de páginas web y aplicaciones móviles robustas, escalables y con un fuerte enfoque en la experiencia del usuario (UX/UI). Me especializo en conectar la lógica del backend con interfaces de usuario limpias y dinámicas, garantizando un rendimiento óptimo y un código mantenible. 
+¡Saludos! Soy **Jesús Echenaguia**, un apasionado **Desarrollador Full Stack** con base en el desarrollo de páginas web y aplicaciones móviles robustas, escalables y con un fuerte enfoque en la experiencia del usuario (UX/UI). Me especializo en conectar la lógica del backend con interfaces de usuario limpias y dinámicas, garantizando un rendimiento óptimo y un código mantenible. 
 
 Siempre estoy en constante aprendizaje, explorando nuevas tecnologías y buscando resolver problemas complejos mediante soluciones tecnológicas eficientes y creativas.
 
